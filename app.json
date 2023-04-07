@@ -7,7 +7,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/sourcesemsem/START_S/",
+  "repository": "https://github.com/sourcesemsem/START_H",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -35,10 +35,7 @@
       "description": "هنا ضع كود جلسة بايروجرام او تيليثون كود تيرمكس الخاص بك",
       "value": ""
     },
-    "TG_BOT_USERNAME": {
-      "description": "هنا ضع معرف بوتك بدون @",
-      "value": ""
-    },
+
     "TG_BOT_TOKEN": {
       "description": "هنا ضع توكن بوتك الذي صنعته",
       "value": ""
@@ -58,9 +55,15 @@
       "value": "Africa/Cairo",
       "required": false
     },
-    "UPSTREAM_REPO": {
-      "description": "رمز السورس لا تغيره ابدا",
-      "value": "sbb_b",
+    "PRIVATE_GROUP_BOT_API_ID": {
+      "description": "ضع ايدي هنا ايدي الجروب الاول  شرح كامل هناا  @JTTUTT الافضل لك تشوف الطريقة",
+      "value": "",
+      "required": false
+    },
+
+    "PM_LOGGER_GROUP_ID": {
+      "description": "ضع ايدي هنا ايدي الجروب الثاني او نفس الاول",
+      "value": "",
       "required": false
     }
   },
