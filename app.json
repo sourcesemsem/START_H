@@ -56,13 +56,13 @@
       "required": false
     },
     "PRIVATE_GROUP_BOT_API_ID": {
-      "description": "ضع ايدي هنا ايدي الجروب الاول  شرح كامل هناا  @JTTUTT الافضل لك تشوف الطريقة",
+      "description": "ضع هنا ايدي الجروب الاول  شرح كامل هناا  @FTTUTT7 الافضل لك تشوف الطريقة",
       "value": "",
       "required": false
     },
 
     "PM_LOGGER_GROUP_ID": {
-      "description": "ضع ايدي هنا ايدي الجروب الثاني او نفس الاول",
+      "description": "ضع هنا ايدي الجروب الثاني او نفس الاول",
       "value": "",
       "required": false
     }
