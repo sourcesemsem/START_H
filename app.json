@@ -35,7 +35,6 @@
       "description": "هنا ضع كود جلسة بايروجرام او تيليثون كود تيرمكس الخاص بك",
       "value": ""
     },
-
     "TG_BOT_TOKEN": {
       "description": "هنا ضع توكن بوتك الذي صنعته",
       "value": ""
@@ -50,19 +49,16 @@
       "value": "",
       "required": false
     },
-
     "PRIVATE_GROUP_BOT_API_ID": {
       "description": "ضع هنا ايدي الجروب الاول  شرح كامل هناا  @FTTUTT7 الافضل لك تشوف الطريقة",
       "value": "",
       "required": false
     },
-
     "PM_LOGGER_GROUP_ID": {
       "description": "ضع هنا ايدي الجروب الثاني او نفس الاول",
       "value": "",
       "required": false
     }, 
-
     "TZ": {
       "description": "المنطقه الزمنيه من القارة الخاصه بك وعاصمه بلدك يجب ان يكون اول حرف كبير",
       "value": "Africa/Cairo",
